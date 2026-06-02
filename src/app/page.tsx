@@ -23,7 +23,11 @@ export default function HomePage() {
       <ProblemCards />
       <VideoFeature />
       <StrategyBenefits />
-      <ImageTextSection />
+      <ImageTextSection
+        eyebrow="Our Approach"
+        heading="A Structured Approach to Financial Education"
+        body="Creative Capital Strategies uses an education-first process to help you ask better questions, evaluate conventional assumptions, and explore strategies built around control, flexibility, and predictability."
+      />
       <ComparisonTable />
       <AudienceCards />
       <ProcessSteps />
